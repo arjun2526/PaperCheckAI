@@ -1,7 +1,0 @@
-project_id = "papercheck-ai"
-
-[functions.evaluate-answer-sheet]
-verify_jwt = false
-
-[functions.send-parent-result]
-verify_jwt = false
